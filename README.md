@@ -55,4 +55,6 @@ Key areas of focus and analysis include:
 ### Better Understanding of Customers:
 - The project can provide a deeper understanding of customer behavior, preferences, and needs, leading to improved customer satisfaction and loyalty. 
 ### Competitive Advantage:
-- By leveraging data analytics, AtliQ Hardware can gain a competitive advantage in the market. 
+- By leveraging data analytics, AtliQ Hardware can gain a competitive advantage in the market.
+
+[Click here to view the interactive dashboard](https://app.powerbi.com/view?r=eyJrIjoiYjQ0OWRlZDUtM2I2Yi00NzMzLTljZjktOWY1OWZlMTg3ODdkIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
